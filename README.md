@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a second-grade master student in CSIE department of National Taiwan University.  
+I mainly code in Rust and Python.  
+[![eurc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=eurc17)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **eurc17/eurc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
